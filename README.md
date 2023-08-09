@@ -46,8 +46,14 @@
 ## Badges
 [![@jribeiroo's Holopin board](https://holopin.me/jribeiroo)](https://holopin.io/@jribeiroo)
 
+
+<div align="center">
+
 ### Total Profile Views :detective: 
-<img src="https://profile-counter.glitch.me/jhosefmarks/count.svg" />
+
+![Visitor Count](https://profile-counter.glitch.me/{jnrpalma}/count.svg)
+
+</div>
 
 <div align="center">
   
