@@ -33,10 +33,10 @@
 ## Stats
 <div>
   <a href="https://github.com/jnrpalma" style="text-decoration:none">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnrpalma&show_icons=true&theme=tokyonight" style="max-width: 100%;"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jnrpalma&show_icons=true&theme=tokyonight" style="max-width: 100%;"/>
   </a>
   <a href="https://github.com/jnrpalma" style="text-decoration:none">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnrpalma&layout=compact&langs_count=16&theme=github_dark" style="max-width: 100%;"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jnrpalma&layout=compact&langs_count=16&theme=dark" style="max-width: 100%;"/>
     &nbsp; 
     <a href="https://app.daily.dev/jnribeiro"><img src="https://api.daily.dev/devcards/5734a825b74742ea906bbbf5f3d03761.png?r=g4r" width="140" alt="Jorge Nicholas Ribeiro's Dev Card"/></a>
   </a>
