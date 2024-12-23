@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello all well? I am the <a href="https://www.linkedin.com/in/jorge-nicholas-ribeiro-493b27129/"><i>Jorge Nicholas Ribeiro</i></a> <img align='center' src='https://github.com/jnrpalma/jnrpalma/blob/main/assets/y7.gif' width='150'> 👨‍💻</h1> 
-  <p align="center">Front end development work <img width="3%" align="center" valign="middle" src="https://avatars.githubusercontent.com/u/48802515?s=200&v=4" target="_blank" /> in <a href="https://www.totvs.com/"><i>TOTVS</i></a>&nbsp; | <a href="https://www.youtube.com/c/TOTVSDevelopers"><i>YouTube</i></a><span> 👉🏽️</span>
+  <p align="center">Front end development work <img width="3%" align="center" valign="middle" src="https://avatars.githubusercontent.com/u/48802515?s=200&v=4" target="_blank" /> in <a href="https://www.sicoob.com.br/"><i>TOTVS</i></a>&nbsp; | <a href="https://www.youtube.com/c/TOTVSDevelopers"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://yt3.ggpht.com/ytc/AKedOLRhE2NybIMb7sApUlXn8wFPGyJx1O9h1OI4bsnf=s176-c-k-c0x00ffffff-no-rj" target="_blank">
     <img width="4%" align="center" valign="middle" src="https://yt3.ggpht.com/ytc/AKedOLRhE2NybIMb7sApUlXn8wFPGyJx1O9h1OI4bsnf=s176-c-k-c0x00ffffff-no-rj" target="_blank" />
   </a>
