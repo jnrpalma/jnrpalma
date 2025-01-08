@@ -1,8 +1,8 @@
 <div>
   <h1 align="center">Hello all well? I am the <a href="https://www.linkedin.com/in/jorge-nicholas-ribeiro-493b27129/"><i>Jorge Nicholas Ribeiro</i></a> <img align='center' src='https://github.com/jnrpalma/jnrpalma/blob/main/assets/y7.gif' width='150'> 👨‍💻</h1> 
-  <p align="center">Front end development work in <a href="https://www.sicoob.com.br/"><i>SICOOB</i></a>&nbsp; | <a href="https://www.youtube.com/@sicoob"><i>YouTube</i></a><span> 👉🏽️</span>
-  <a align="rigth"  href="https://yt3.ggpht.com/ytc/AKedOLRhE2NybIMb7sApUlXn8wFPGyJx1O9h1OI4bsnf=s176-c-k-c0x00ffffff-no-rj" target="_blank">
-    <img width="4%" align="center" valign="middle" src="https://media.licdn.com/dms/image/v2/C560BAQFFMsJ5APGPmw/company-logo_200_200/company-logo_200_200/0/1630607845401/sicoob_confedera_o_logo?e=1743033600&v=beta&t=WJiEkN4qdByAVsvwjM2yJuL1AIf0CKtG9Dmfd5CVSH0" target="_blank" />
+  <p align="center">Front end development work in <a href="https://www.minsait.com/"><i>MINSAINT</i></a>&nbsp; | <a href="https://www.youtube.com/@MinsaitCompany"><i>YouTube</i></a><span> 👉🏽️</span>
+  <a align="rigth" target="_blank">
+    <img width="4%" align="center" valign="middle" src="https://yt3.googleusercontent.com/EafVGzz0N14QzUvTymnQMFFTz6VRKgVqP_We39kegDiTF9_qnrGAoZhX5W42IDy3YEbU14I6=s160-c-k-c0x00ffffff-no-rj" target="_blank" />
   </a>
   
   <br>
