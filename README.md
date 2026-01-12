@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Currently working at <a href="https://www.minsait.com/" target="_blank"><b>Minsait</b></a>
+  Most recent experience at <a href="https://www.minsait.com/" target="_blank"><b>Minsait</b></a>
 </p>
 
 ---
